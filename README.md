@@ -1,8 +1,8 @@
 # rss
 
 ## Administrator
-https://administrator.de/xml/artikel.xml 
-https://administrator.de/xml/wissen.xml 
+https://administrator.de/xml/artikel.xml  
+https://administrator.de/xml/wissen.xml  
 https://administrator.de/xml/info.xml
 https://administrator.de/xml/fragen.xml
 https://administrator.de/xml/anleitungen.xml
