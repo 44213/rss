@@ -1,0 +1,60 @@
+markdown_dir_path: "G:/My Drive/666Obsidian/PRi/TagesNews"
+feeds:
+  - https://stadt-bremerhaven.de/feed/
+  - https://www.heise.de/rss/heise-atom.xml
+  - https://www.golem.de/rss.php?feed=ATOM1.0
+  - https://www.theverge.com/rss/index.xml
+  - https://www.cxtoday.com/feed/
+  - https://www.xda-developers.com/feed/tag/rss/
+  - https://www.medicaldevice-network.com/feed/        # HealthTech
+  - https://www.pulsetoday.co.uk/feed/                 # Primary care/GP
+  - https://www.phonandroid.com/feed                   # Mobile/Hardware
+  - https://hnrss.org/best 10                          # HN Best (Limit 10)
+  - https://the-decoder.de/feed/
+  - https://petapixel.com/feed/
+  - https://slator.com/speech-voice/feed/
+  - https://slator.com/language-ai/feed/
+  - https://autogpt.net/feed/
+  - https://autogpt.net/category/ai-news/feed/
+  - https://techcrunch.com/feed/
+  - https://techcrunch.com/tag/ai-note-taking/feed/
+  - https://aithority.com/feed/
+  - https://feeds.feedburner.com/tkwiki
+  - https://www.windowscentral.com/feeds.xml
+  - https://news.microsoft.com/source/topics/ai/feed/
+  - https://news.google.com/rss/search?q=AI+Transkription&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=Dragon+Copilot+NHS&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=Gemini+Audio+Transkription&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=Deepgram+Nova-3&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=Mistral+Voxtral&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=FFmpeg+Whisper&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=NVIDIA+Granary+Canary+ASR&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=Amazon+Nova+Sonic+Transkription&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=Wispr+Flow+Diktat&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=Heidi+Health+Dictation&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=TwinMind+Ear-3&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=Intella+Arabic+Transkription&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=Anker+Soundcore+Work+Recorder&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=Insta360+Wave+Speakerphone&hl=de&gl=AT&ceid=AT:de
+  - https://news.google.com/rss/search?q=Nothing+Ear+3+%22Super+Mic%22&hl=de&gl=AT&ceid=AT:de
+  - https://www.youtube.com/feeds/videos.xml?channel_id=UCZXCfY_O6gj2trJ3EQuzlmA
+  - https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
+google_news_keywords: Speech-to-Text,Dictation,Voice AI,OpenAI,ASR,TTS,Healthcare AI, Microsoft Dragon Copilot,Wispr Flow,ai transcription service,automated speech recognition,dictation technology, automatic speech recognition
+instapaper: true
+weather_latitude: 48.0489
+weather_longitude: 16.3144
+terminal_mode: false
+opml_file_path:
+markdown_file_prefix: news_
+markdown_file_suffix:
+reading_time: true
+sunrise_sunset: true
+openai_api_key:
+openai_base_url:
+openai_model:
+summary_feeds:
+show_images: false
+analyst_feeds:
+  - https://feeds.bbci.co.uk/news/business/rss.xml
+analyst_prompt:
+analyst_model:
