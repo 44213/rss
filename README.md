@@ -1,3 +1,6 @@
+config.yaml ist eine Datei für die matcha.exe Software mit URLs und RSS
+
+
 # rss
 
 ## Administrator
